@@ -32,4 +32,5 @@ var RaceEthnicity = {
     district11: [
         {'African American': '7%', 'Asian Pacific Islander': '48%', 'Hispanic Latino': '37%', 'Multiracial Multiethnic': '4%', 'White': '4%', 'Other': '0%'}
     ]
-}
+};
+
