@@ -1,0 +1,51 @@
+div.header h1 {
+
+}
+
+p {
+	font-family: 'Open Sans', sans-serif;
+}
+
+h1, h2, h3, h4 {
+	font-family: 'Bree Serif', serif;
+}
+
+h1 {
+	font-size: 26px;
+}
+
+body {
+	background-image: url("san_francisco-l.gif");
+    margin: 0px;
+}
+
+div.nav-bar {
+	background-color: turquoise;
+    padding: 2%;
+    font-size: 30px;
+    text-align: center;
+}
+
+a.site-title {
+	font-family: 'Bree Serif', serif;
+}
+
+div.body {
+    margin: 8% 11%;
+}
+
+div.desc {
+	background-color: white;
+	padding: 2% 4% 3%;
+	box-shadow: 0px 0px 10px #000000;
+}
+
+div.button-enter {
+	margin-top: 4%;
+}
+
+div.button-enter button {
+	color: white;
+    background-color: #175B8F !important;
+    font-size: 16px;
+}
